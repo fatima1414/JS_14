@@ -14,6 +14,7 @@
 // }
 
 // DO WHILE LOOP
+
 // let i = 1;
 // do {
 //     console.log(i);
