@@ -1,4 +1,4 @@
-function ADD() {
+function add() {
     alert("first")
     let value1 = document.getElementById("value1").value;
     console.log(value1);
@@ -14,7 +14,7 @@ function ADD() {
 }
 
 
-function SUB() {
+function sub() {
     alert("first")
     let value1 = document.getElementById("value1").value;
     console.log(value1);
@@ -30,7 +30,7 @@ function SUB() {
 
 
 
-function MULTI() {
+function multi() {
     alert("first")
     let value1 = document.getElementById("value1").value;
     console.log(value1);
@@ -46,7 +46,7 @@ function MULTI() {
 
 
 
-function DIVI() {
+function divi() {
     alert("first")
     let value1 = document.getElementById("value1").value;
     console.log(value1);
