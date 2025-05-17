@@ -1,5 +1,4 @@
 function calc() {
-      alert("selc")
     let value1 = document.getElementById("value1").value
     let value2 = document.getElementById("value2").value
     let selc = document.getElementById("selc").value
